@@ -1,0 +1,22 @@
+{
+  "opportunities": [
+    {
+      "id": 1,
+      "title": "Grace Hopper Celebration Scholarship",
+      "organization": "AnitaB.org",
+      "deadline": "March 15, 2025",
+      "eligibility": "Women in Computer Science",
+      "type": "Scholarship",
+      "link": "https://ghc.anitab.org"
+    },
+    {
+      "id": 2,
+      "title": "Google Women Techmakers",
+      "organization": "Google",
+      "deadline": "Rolling",
+      "eligibility": "All STEM fields",
+      "type": "Program",
+      "link": "https://www.womentechmakers.com"
+    }
+  ]
+}
