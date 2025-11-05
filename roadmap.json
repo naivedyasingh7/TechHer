@@ -1,0 +1,332 @@
+{
+  "paths": [
+    {
+      "id": "ai",
+      "name": "Artificial Intelligence & Machine Learning",
+      "description": "Master AI fundamentals and build intelligent systems",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Python Fundamentals",
+          "goals": [
+            "Learn Python syntax, data types, and control structures",
+            "Complete 15 coding challenges on LeetCode or HackerRank",
+            "Build a simple calculator or to-do list app"
+          ],
+          "resources": [
+            "Python.org tutorial",
+            "Codecademy Python Course",
+            "Automate the Boring Stuff book"
+          ],
+          "estimated_time": "3-4 weeks"
+        },
+        {
+          "level": 2,
+          "title": "Data Science Basics",
+          "goals": [
+            "Learn NumPy, Pandas, and Matplotlib libraries",
+            "Complete a data analysis project with a real dataset",
+            "Create 3 data visualizations"
+          ],
+          "resources": [
+            "Kaggle Learn courses",
+            "DataCamp Introduction to Python",
+            "Public datasets from Kaggle or UCI"
+          ],
+          "estimated_time": "4-5 weeks"
+        },
+        {
+          "level": 3,
+          "title": "Machine Learning Foundations",
+          "goals": [
+            "Understand supervised vs unsupervised learning",
+            "Implement linear regression and classification models",
+            "Complete Andrew Ng ML course first 5 weeks"
+          ],
+          "resources": [
+            "Coursera ML by Andrew Ng",
+            "Scikit-learn documentation",
+            "StatQuest YouTube channel"
+          ],
+          "estimated_time": "6-8 weeks"
+        },
+        {
+          "level": 4,
+          "title": "Deep Learning Introduction",
+          "goals": [
+            "Learn neural network basics and backpropagation",
+            "Build a simple neural network from scratch",
+            "Complete a Keras or TensorFlow tutorial"
+          ],
+          "resources": [
+            "Fast.ai Practical Deep Learning course",
+            "TensorFlow tutorials",
+            "3Blue1Brown neural network videos"
+          ],
+          "estimated_time": "6-8 weeks"
+        },
+        {
+          "level": 5,
+          "title": "AI Project Portfolio",
+          "goals": [
+            "Build an image classifier using CNN",
+            "Create a sentiment analysis model for text",
+            "Deploy one AI model as a web app"
+          ],
+          "resources": [
+            "Streamlit for deployment",
+            "Hugging Face tutorials",
+            "GitHub for version control"
+          ],
+          "estimated_time": "8-10 weeks"
+        }
+      ]
+    },
+    {
+      "id": "webdev",
+      "name": "Web Development",
+      "description": "Build modern, responsive websites and web applications",
+      "levels": [
+        {
+          "level": 1,
+          "title": "HTML & CSS Mastery",
+          "goals": [
+            "Create 3 static web pages with semantic HTML",
+            "Style pages using CSS Flexbox and Grid",
+            "Make a responsive portfolio website"
+          ],
+          "resources": [
+            "freeCodeCamp Responsive Web Design",
+            "MDN Web Docs",
+            "CSS-Tricks website"
+          ],
+          "estimated_time": "3-4 weeks"
+        },
+        {
+          "level": 2,
+          "title": "JavaScript Fundamentals",
+          "goals": [
+            "Learn JavaScript syntax and DOM manipulation",
+            "Build 3 interactive projects like calculator or quiz",
+            "Understand ES6+ features"
+          ],
+          "resources": [
+            "JavaScript.info tutorial",
+            "freeCodeCamp JavaScript course",
+            "The Odin Project"
+          ],
+          "estimated_time": "5-6 weeks"
+        },
+        {
+          "level": 3,
+          "title": "Frontend Framework React",
+          "goals": [
+            "Learn React components, props, and state",
+            "Build a to-do app and weather app",
+            "Understand React hooks useState and useEffect"
+          ],
+          "resources": [
+            "React official tutorial",
+            "Scrimba React course",
+            "React documentation"
+          ],
+          "estimated_time": "6-8 weeks"
+        },
+        {
+          "level": 4,
+          "title": "Backend Development",
+          "goals": [
+            "Learn Node.js and Express.js basics",
+            "Create a REST API with CRUD operations",
+            "Connect API to a database MongoDB or PostgreSQL"
+          ],
+          "resources": [
+            "Node.js documentation",
+            "The Net Ninja YouTube tutorials",
+            "MongoDB University"
+          ],
+          "estimated_time": "6-8 weeks"
+        },
+        {
+          "level": 5,
+          "title": "Full-Stack Project",
+          "goals": [
+            "Build a complete web app frontend and backend",
+            "Implement user authentication",
+            "Deploy your app to Vercel or Netlify or Heroku"
+          ],
+          "resources": [
+            "Full Stack Open course",
+            "Auth0 or Firebase for authentication",
+            "Deployment guides"
+          ],
+          "estimated_time": "8-12 weeks"
+        }
+      ]
+    },
+    {
+      "id": "coreeng",
+      "name": "Core Engineering CS Fundamentals",
+      "description": "Build strong foundations in computer science and algorithms",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Programming Language Mastery",
+          "goals": [
+            "Choose C++ Java or Python and master the syntax",
+            "Solve 30 easy problems on LeetCode",
+            "Understand time and space complexity Big O"
+          ],
+          "resources": [
+            "GeeksforGeeks tutorials",
+            "LeetCode study plan",
+            "Big-O cheat sheet"
+          ],
+          "estimated_time": "4-5 weeks"
+        },
+        {
+          "level": 2,
+          "title": "Data Structures",
+          "goals": [
+            "Master arrays, linked lists, stacks, and queues",
+            "Implement trees and graphs from scratch",
+            "Solve 20 medium DS problems"
+          ],
+          "resources": [
+            "Abdul Bari YouTube",
+            "Coursera Data Structures course",
+            "NeetCode roadmap"
+          ],
+          "estimated_time": "6-8 weeks"
+        },
+        {
+          "level": 3,
+          "title": "Algorithms",
+          "goals": [
+            "Learn sorting, searching, and recursion",
+            "Master dynamic programming basics",
+            "Complete 30 algorithm problems"
+          ],
+          "resources": [
+            "Introduction to Algorithms CLRS book",
+            "MIT OpenCourseWare Algorithms",
+            "AlgoExpert paid"
+          ],
+          "estimated_time": "8-10 weeks"
+        },
+        {
+          "level": 4,
+          "title": "System Design Basics",
+          "goals": [
+            "Understand scalability and load balancing",
+            "Learn about databases and caching",
+            "Design 3 simple systems URL shortener chat app"
+          ],
+          "resources": [
+            "System Design Primer GitHub",
+            "Gaurav Sen YouTube",
+            "Designing Data-Intensive Applications book"
+          ],
+          "estimated_time": "6-8 weeks"
+        },
+        {
+          "level": 5,
+          "title": "Interview Preparation",
+          "goals": [
+            "Solve 100+ LeetCode problems easy to hard",
+            "Practice mock interviews",
+            "Complete behavioral interview prep"
+          ],
+          "resources": [
+            "Blind 75 LeetCode list",
+            "Pramp for mock interviews",
+            "Cracking the Coding Interview book"
+          ],
+          "estimated_time": "10-12 weeks"
+        }
+      ]
+    },
+    {
+      "id": "datascience",
+      "name": "Data Science & Analytics",
+      "description": "Extract insights from data and build predictive models",
+      "levels": [
+        {
+          "level": 1,
+          "title": "Statistics & Probability",
+          "goals": [
+            "Learn descriptive statistics and probability basics",
+            "Understand hypothesis testing and p-values",
+            "Complete Khan Academy statistics course"
+          ],
+          "resources": [
+            "Khan Academy Statistics",
+            "StatQuest YouTube",
+            "Think Stats book free online"
+          ],
+          "estimated_time": "4-5 weeks"
+        },
+        {
+          "level": 2,
+          "title": "Python for Data Analysis",
+          "goals": [
+            "Master Pandas for data manipulation",
+            "Create visualizations with Matplotlib and Seaborn",
+            "Complete 3 exploratory data analysis projects"
+          ],
+          "resources": [
+            "Python for Data Analysis book",
+            "Kaggle Learn Data Visualization",
+            "Real Python tutorials"
+          ],
+          "estimated_time": "5-6 weeks"
+        },
+        {
+          "level": 3,
+          "title": "Machine Learning for Data Science",
+          "goals": [
+            "Build regression and classification models",
+            "Learn feature engineering techniques",
+            "Enter a Kaggle competition"
+          ],
+          "resources": [
+            "Scikit-learn course",
+            "Kaggle micro-courses",
+            "Feature Engineering book"
+          ],
+          "estimated_time": "6-8 weeks"
+        },
+        {
+          "level": 4,
+          "title": "SQL & Databases",
+          "goals": [
+            "Write complex SQL queries joins and aggregations",
+            "Understand database design and normalization",
+            "Complete SQL challenges on HackerRank"
+          ],
+          "resources": [
+            "Mode Analytics SQL tutorial",
+            "SQLZoo practice",
+            "PostgreSQL documentation"
+          ],
+          "estimated_time": "4-5 weeks"
+        },
+        {
+          "level": 5,
+          "title": "Data Science Portfolio",
+          "goals": [
+            "Complete an end-to-end data science project",
+            "Create a data dashboard using Tableau or PowerBI",
+            "Present findings in a professional report"
+          ],
+          "resources": [
+            "Tableau Public for practice",
+            "GitHub for project hosting",
+            "Towards Data Science blog"
+          ],
+          "estimated_time": "8-10 weeks"
+        }
+      ]
+    }
+  ]
+}

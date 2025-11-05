@@ -1,0 +1,94 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "name": "Dr. Grace Hopper",
+      "role": "Computer Science Pioneer",
+      "field": "Computer Science",
+      "image_url": "assets/images/grace_hopper.jpg",
+      "short_bio": "Rear Admiral Grace Hopper was an American computer scientist and United States Navy officer. She was one of the first programmers of the Harvard Mark I computer and invented the first compiler for a computer programming language.",
+      "achievement": "Developed the first compiler and popularized the term debugging",
+      "quote": "The most dangerous phrase in the language is We have always done it this way."
+    },
+    {
+      "id": 2,
+      "name": "Dr. Mae Jemison",
+      "role": "First African American Woman in Space",
+      "field": "Aerospace Engineering",
+      "image_url": "assets/images/mae_jemison.jpg",
+      "short_bio": "Dr. Mae Carol Jemison is an American engineer, physician, and former NASA astronaut. She became the first African American woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour in 1992.",
+      "achievement": "First Black woman astronaut and founded science education programs",
+      "quote": "Never be limited by other people's limited imaginations."
+    },
+    {
+      "id": 3,
+      "name": "Radia Perlman",
+      "role": "Mother of the Internet",
+      "field": "Network Engineering",
+      "image_url": "assets/images/radia_perlman.jpg",
+      "short_bio": "Radia Joy Perlman is an American computer programmer and network engineer. She invented the spanning-tree protocol (STP), which is fundamental to the operation of network bridges, while working for Digital Equipment Corporation.",
+      "achievement": "Invented spanning-tree protocol, making the internet scalable",
+      "quote": "Designing good technology requires understanding people."
+    },
+    {
+      "id": 4,
+      "name": "Katherine Johnson",
+      "role": "NASA Mathematician",
+      "field": "Mathematics & Space Science",
+      "image_url": "assets/images/katherine_johnson.jpg",
+      "short_bio": "Katherine Coleman Goble Johnson was an American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights, including Apollo 11's moon landing.",
+      "achievement": "Calculated trajectories for NASA's Mercury and Apollo programs",
+      "quote": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed."
+    },
+    {
+      "id": 5,
+      "name": "Gwynne Shotwell",
+      "role": "President of SpaceX",
+      "field": "Aerospace Engineering",
+      "image_url": "assets/images/gwynne_shotwell.jpg",
+      "short_bio": "Gwynne Shotwell is an American businesswoman and engineer. She serves as president and chief operating officer of SpaceX, where she is responsible for day-to-day operations and company growth.",
+      "achievement": "Led SpaceX to become the first private company to send humans to ISS",
+      "quote": "You have to be fearless. You have to believe in yourself when others do not."
+    },
+    {
+      "id": 6,
+      "name": "Reshma Saujani",
+      "role": "Founder of Girls Who Code",
+      "field": "Computer Science Education",
+      "image_url": "assets/images/reshma_saujani.jpg",
+      "short_bio": "Reshma Saujani is an American lawyer, politician, and the founder and CEO of Girls Who Code, a nonprofit organization working to close the gender gap in technology and change the image of what a programmer looks like and does.",
+      "achievement": "Taught coding to 300,000+ girls across America",
+      "quote": "Teach girls bravery, not perfection."
+    },
+    {
+      "id": 7,
+      "name": "Fei-Fei Li",
+      "role": "AI Pioneer",
+      "field": "Artificial Intelligence",
+      "image_url": "assets/images/fei_fei_li.jpg",
+      "short_bio": "Dr. Fei-Fei Li is a Chinese-American computer scientist and the co-director of Stanford's Human-Centered AI Institute. She is known for creating ImageNet, which enabled breakthroughs in deep learning and AI.",
+      "achievement": "Created ImageNet, revolutionizing computer vision and AI",
+      "quote": "AI is made by humans. If we do not have diversity in the people building it, we will not have diversity in how it is applied."
+    },
+    {
+      "id": 8,
+      "name": "Ada Lovelace",
+      "role": "First Computer Programmer",
+      "field": "Computer Science",
+      "image_url": "assets/images/ada_lovelace.jpg",
+      "short_bio": "Augusta Ada King, Countess of Lovelace, was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine.",
+      "achievement": "Wrote the first algorithm intended for machine processing (1843)",
+      "quote": "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."
+    },
+    {
+      "id": 9,
+      "name": "Anita Borg",
+      "role": "Computer Scientist & Advocate",
+      "field": "Computer Science",
+      "image_url": "assets/images/anita_borg.jpg",
+      "short_bio": "Anita Borg was an American computer scientist who founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing. She dedicated her life to revolutionizing technology and increasing women's participation.",
+      "achievement": "Founded AnitaB.org and Grace Hopper Celebration",
+      "quote": "The world needs the brains and imagination of women technologists to build a better future."
+    }
+  ]
+}

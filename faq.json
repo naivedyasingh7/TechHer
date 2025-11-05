@@ -1,0 +1,60 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "keywords": ["scholarship", "women", "ai", "artificial intelligence", "machine learning"],
+      "question": "Show scholarships for women in AI",
+      "answer": "Here are some top scholarships for women in AI: Google Women Techmakers Scholarship - Up to $10,000 for women in CS. AI4ALL Scholarships - For underrepresented students in AI. Break Through Tech AI Program - Free AI education plus mentorship. Check our Opportunities section for more details and application links!",
+      "type": "scholarship"
+    },
+    {
+      "id": 2,
+      "keywords": ["famous", "woman", "engineer", "scientist", "inspiration", "role model"],
+      "question": "Tell me about a famous woman engineer",
+      "answer": "Let me tell you about some incredible women in engineering! Dr. Mae Jemison - First African American woman in space and engineer. Radia Perlman - Invented spanning-tree protocol, Mother of the Internet. Gwynne Shotwell - President of SpaceX. Visit our Inspiration Hub to learn more about these amazing pioneers!",
+      "type": "inspiration"
+    },
+    {
+      "id": 3,
+      "keywords": ["internship", "summer", "program", "opportunity"],
+      "question": "How do I find internships?",
+      "answer": "Great question! Here is how to find amazing internships: 1. Check our Opportunities section for curated programs. 2. Apply to big tech companies (Google, Microsoft, Meta) early (Oct-Dec). 3. Look into research programs like NSF REU. 4. Join women-in-tech communities for exclusive postings. Reminder: Most summer internships open applications in fall!",
+      "type": "opportunity"
+    },
+    {
+      "id": 4,
+      "keywords": ["motivation", "inspire", "encourage", "struggle", "hard"],
+      "question": "I need motivation to keep going",
+      "answer": "You have got this! Remember: Every expert was once a beginner. Your perspective as a woman in STEM is valuable and needed. Challenges are proof you are growing. You belong here! Check out our Inspiration Hub for stories of women who overcame obstacles just like you. You are stronger than you think!",
+      "type": "motivation"
+    },
+    {
+      "id": 5,
+      "keywords": ["career", "path", "roadmap", "learning", "start", "begin"],
+      "question": "How do I start my STEM career?",
+      "answer": "Welcome to your STEM journey! 1. Choose your path: AI, Web Dev, Data Science, Core Engineering. 2. Start learning: Try our STEMQuest game for a guided roadmap. 3. Build projects: Apply what you learn. 4. Network: Join women-in-tech groups. 5. Apply for opportunities: Internships and scholarships. Head over to STEMQuest to start your gamified career journey!",
+      "type": "guidance"
+    },
+    {
+      "id": 6,
+      "keywords": ["resume", "cv", "application", "apply", "tips"],
+      "question": "How do I improve my resume?",
+      "answer": "Let me help you build a strong resume! Highlight technical skills and projects. Quantify achievements with numbers. Include leadership experiences. Tailor for each application. Keep it clean and ATS-friendly. Check out our Resume Tips page for detailed guidance and examples!",
+      "type": "guidance"
+    },
+    {
+      "id": 7,
+      "keywords": ["coding", "programming", "learn", "language", "python", "java"],
+      "question": "Which programming language should I learn first?",
+      "answer": "Great question! Here is my recommendation: Python - Best for beginners, used in AI and Data Science. Java - Great for software engineering foundations. JavaScript - Essential for web development. Start with Python - it is beginner-friendly and versatile! Our STEMQuest roadmap will guide you through the fundamentals.",
+      "type": "guidance"
+    },
+    {
+      "id": 8,
+      "keywords": ["imposter", "syndrome", "confidence", "doubt", "belong"],
+      "question": "I have imposter syndrome",
+      "answer": "You are not alone - 70% of people experience imposter syndrome! Remember: Your feelings do not reflect reality. Everyone starts somewhere. Asking questions shows intelligence, not ignorance. You earned your place here. The Inspiration Hub has stories of successful women who felt the same way. You absolutely belong in STEM!",
+      "type": "motivation"
+    }
+    ]
+  }
